@@ -6,3 +6,9 @@ Incertidumbre y probabilidad
 - **Probabilidad**: Es un lenguaje que nos da herramientas para cuantificar la incertidumbre
 
 La probabilidad es realmente, una creencia que tenemos sobre la ocurrencia de eventos elementales
+
+### Probabilidad en Machine Learning
+**Fuentes de incertidumbre**:
+- Datos
+- Atributos del modelo
+- Arquitectura del modelo
