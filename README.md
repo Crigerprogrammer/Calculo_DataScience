@@ -17,3 +17,9 @@ La probabilidad es realmente, una creencia que tenemos sobre la ocurrencia de ev
 - Conjunta (joint)
 - Marginal
 - Condicional
+
+### Ejemplos de cálculo de probabilidad
+Correlaciones de evento
+- A = resultado de lanzar un dado y sea 4
+- B = resultado de lanzar un dado y sea par
+- C = resultado de lanzar un dado y sea impar
