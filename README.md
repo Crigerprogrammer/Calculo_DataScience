@@ -26,3 +26,8 @@ Correlaciones de evento
 - C = resultado de lanzar un dado y sea impar
 =======
 >>>>>>> 7dd5b45d1b646c589029d481b75711d4f400550f
+
+### Ejemplos avanzados con probabilidad
+Paradoja ¿niño o niña?
+- Una mujer tiene dos bebés donde el mayor es un varón
+- Una mujer tiene dos bebés donde uno de ellos es varón.
