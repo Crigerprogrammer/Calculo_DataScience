@@ -12,3 +12,8 @@ La probabilidad es realmente, una creencia que tenemos sobre la ocurrencia de ev
 - Datos
 - Atributos del modelo
 - Arquitectura del modelo
+
+### TIPOS DE PROBABILIDAD
+- Conjunta (joint)
+- Marginal
+- Condicional
