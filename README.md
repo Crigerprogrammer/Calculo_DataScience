@@ -39,7 +39,12 @@ X -> Variable aleatoria
 x -> Valores posibles en el espacio muestran
 
 ### Distribuciones discretas
-Distribución de Bernoullo
+Distribución de Bernoulli
 Variables con ocurrencias binarias
 P(X = 1) = p
 P(X =0) = 1 - p 
+
+Distribución Binomial
+Secuencia repetitiva de eventos tipo bernoulli
+Todos los eventos igualmente probables
+P(2 caras | 3 lanzamiento) = 3/8
