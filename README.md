@@ -31,3 +31,6 @@ Correlaciones de evento
 Paradoja ¿niño o niña?
 - Una mujer tiene dos bebés donde el mayor es un varón
 - Una mujer tiene dos bebés donde uno de ellos es varón.
+
+
+### ¿Que es una distribución?
