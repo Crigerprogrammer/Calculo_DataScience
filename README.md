@@ -37,3 +37,9 @@ Paradoja ¿niño o niña?
 
 X -> Variable aleatoria
 x -> Valores posibles en el espacio muestran
+
+### Distribuciones discretas
+Distribución de Bernoullo
+Variables con ocurrencias binarias
+P(X = 1) = p
+P(X =0) = 1 - p 
