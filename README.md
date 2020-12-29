@@ -48,3 +48,9 @@ Distribución Binomial
 Secuencia repetitiva de eventos tipo bernoulli
 Todos los eventos igualmente probables
 P(2 caras | 3 lanzamiento) = 3/8
+
+Otras ditribuciones:
+- Poisson
+- Geométrica
+- Hipergeométrica
+- Binomial negativa
