@@ -34,3 +34,6 @@ Paradoja ¿niño o niña?
 
 
 ### ¿Que es una distribución?
+
+X -> Variable aleatoria
+x -> Valores posibles en el espacio muestran
