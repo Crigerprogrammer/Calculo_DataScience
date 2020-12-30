@@ -54,3 +54,6 @@ Otras ditribuciones:
 - Geométrica
 - Hipergeométrica
 - Binomial negativa
+
+## MLE
+Es un framework para estimación de densidades de probabilidad.
