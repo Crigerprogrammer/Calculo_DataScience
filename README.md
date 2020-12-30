@@ -57,3 +57,9 @@ Otras ditribuciones:
 
 ## MLE
 Es un framework para estimación de densidades de probabilidad.
+
+### Elementos de MLE
+- **Escoger la distribución**:
+Teniendo solo una muestra de los datos
+- **Escoger los parámetros de la distribución**:
+Que mejor ajustan la distribución a los datos.
