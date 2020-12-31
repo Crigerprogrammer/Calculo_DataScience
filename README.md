@@ -68,3 +68,5 @@ Que mejor ajustan la distribución a los datos.
 Ingerencia Bayesiana
 
 - Frecuentistas vs Bayesianos
+
+**P(A|B) = P(B|A)P(A) / P(B)** 
