@@ -65,7 +65,7 @@ Teniendo solo una muestra de los datos
 Que mejor ajustan la distribución a los datos.
 
 ### Teorema de Bayes
-Ingerencia Bayesiana
+Inferencia Bayesiana
 
 - Frecuentistas vs Bayesianos
 
